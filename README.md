@@ -49,7 +49,6 @@ Profile Management: Users can manage their profiles, view past tournament partic
 Directory Structure
 Here’s an overview of the project’s structure:
 
-bash 
 /mobile-esports-tournament-frontend
 ├── /public                 # Static files (e.g., index.html, images)
 ├── /src                    # Source code
@@ -61,6 +60,7 @@ bash
 ├── /node_modules           # Installed npm packages
 ├── package.json            # npm configuration file
 └── tailwind.config.js      # Tailwind CSS configuration file
+
 
 Key Folders and Files
 /src/components: Reusable UI components that make up the building blocks of your pages.
