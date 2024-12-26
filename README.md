@@ -39,7 +39,7 @@ Copy code
 npm start
 This will open the app in your default browser at http://localhost:3000. Any changes you make to the code will be reflected immediately as the app is running in hot-reload mode.
 
-Usage
+### Usage
 Once the app is running, you can expect the following functionalities:
 
 Tournament Overview: A list of upcoming and ongoing tournaments, with the ability to join as a player or team.
