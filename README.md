@@ -49,6 +49,7 @@ Profile Management: Users can manage their profiles, view past tournament partic
 Directory Structure
 Here’s an overview of the project’s structure:
 
+bash 
 /mobile-esports-tournament-frontend
 ├── /public                 # Static files (e.g., index.html, images)
 ├── /src                    # Source code
