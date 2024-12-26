@@ -6,18 +6,17 @@ This is the frontend of the mobile esports tournament app, built using React and
 
 ### 1. Clone the repository
 Clone the repository to your local machine by running:
-
-``` git clone https://github.com/kppetrick/mobile-esports-tournament-frontend.git ```
+```bash git clone https://github.com/kppetrick/mobile-esports-tournament-frontend.git ```
 
 
 ### 2. Navigate to the project directory
 Go into the project folder:
-``` cd mobile-esports-tournament-frontend ```
+```bash cd mobile-esports-tournament-frontend ```
 
 
 ### 3. Install dependencies
 Install all the required project dependencies:
-``` npm install ```
+```bash npm install ```
 
 
 ### 4. Tailwind CSS Setup
@@ -31,7 +30,7 @@ These files will allow you to customize the Tailwind setup and use PostCSS for p
 
 ### 5. Start the development server
 Once the dependencies are installed, run the app in development mode:
-``` npm start ```
+```bash npm start ```
 This will open the app in your default browser at http://localhost:3000. Any changes you make to the code will be reflected immediately as the app is running in hot-reload mode.
 
 
