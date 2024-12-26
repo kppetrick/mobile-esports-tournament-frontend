@@ -47,8 +47,10 @@ Team Registration: Teams can register for tournaments, update their roster, and 
 Match Schedule: View upcoming match times and details, and track the progress of live matches.
 Profile Management: Users can manage their profiles, view past tournament participation, and update personal information.
 
-### Directory Structure
+## Directory Structure
+
 Here’s an overview of the project’s structure:
+
 
 /mobile-esports-tournament-frontend
 ├── /public                 # Static files (e.g., index.html, images)
@@ -77,3 +79,7 @@ Create a new branch for your feature or fix.
 Commit your changes with clear messages.
 Push your branch to your forked repository.
 Open a pull request with a detailed description of your changes.
+
+
+Make sure you paste this as-is in your `README.md`. This will properly render the directory structure when viewed on GitHub or in a markdown preview tool.
+
