@@ -56,21 +56,21 @@ Here’s an overview of the project’s structure:
 └── tailwind.config.js      # Tailwind CSS configuration file
 ```
 
-Key Folders and Files
-/src/components: Reusable UI components that make up the building blocks of your pages.
-/src/pages: The actual page components (e.g., Home, Profile, Tournament).
-/src/styles: Custom CSS files or Tailwind configuration to manage styles across the app.
-tailwind.config.js: Tailwind CSS configuration file for customizing the design system.
+## Key Folders and Files
 
-### Contributing
+- `/src/components`: Reusable UI components that make up the building blocks of your pages.
+- `/src/pages`: The actual page components (e.g., Home, Profile, Tournament).
+- `/src/styles`: Custom CSS files or Tailwind configuration to manage styles across the app.
+- `tailwind.config.js`: Tailwind CSS configuration file for customizing the design system.
+
+## Contributing
+
 We welcome contributions! If you would like to contribute to the development of this project, follow these steps:
 
-Fork the repository to your GitHub account.
-Create a new branch for your feature or fix.
-Commit your changes with clear messages.
-Push your branch to your forked repository.
-Open a pull request with a detailed description of your changes.
+1. Fork the repository to your GitHub account.
+2. Create a new branch for your feature or fix.
+3. Commit your changes with clear messages.
+4. Push your branch to your forked repository.
+5. Open a pull request with a detailed description of your changes.
 
-
-Make sure you paste this as-is in your `README.md`. This will properly render the directory structure when viewed on GitHub or in a markdown preview tool.
 
