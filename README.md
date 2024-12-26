@@ -5,23 +5,16 @@ This is the frontend of the mobile esports tournament app, built using React and
 ## Setup
 
 ### 1. Clone the repository
-
 Clone the repository to your local machine by running:
-git clone https://github.com/kppetrick/mobile-esports-tournament-frontend.git
+``` git clone https://github.com/kppetrick/mobile-esports-tournament-frontend.git ```
 
 ### 2. Navigate to the project directory
 Go into the project folder:
-
-bash
-Copy code
-cd mobile-esports-tournament-frontend
+``` cd mobile-esports-tournament-frontend ```
 
 ### 3. Install dependencies
 Install all the required project dependencies:
-
-bash
-Copy code
-npm install
+``` npm install ```
 
 ### 4. Tailwind CSS Setup
 Ensure that Tailwind CSS is set up correctly by following the necessary setup steps. If Tailwind is not yet installed or configured, you can follow the installation guide from Tailwind CSS Documentation.
@@ -33,19 +26,17 @@ These files will allow you to customize the Tailwind setup and use PostCSS for p
 
 ### 5. Start the development server
 Once the dependencies are installed, run the app in development mode:
-
-bash
-Copy code
-npm start
+``` npm start ```
 This will open the app in your default browser at http://localhost:3000. Any changes you make to the code will be reflected immediately as the app is running in hot-reload mode.
 
-### Usage
+## Usage
+
 Once the app is running, you can expect the following functionalities:
 
-Tournament Overview: A list of upcoming and ongoing tournaments, with the ability to join as a player or team.
-Team Registration: Teams can register for tournaments, update their roster, and manage their team details.
-Match Schedule: View upcoming match times and details, and track the progress of live matches.
-Profile Management: Users can manage their profiles, view past tournament participation, and update personal information.
+- **Tournament Overview**: A list of upcoming and ongoing tournaments, with the ability to join as a player or team.
+- **Team Registration**: Teams can register for tournaments, update their roster, and manage their team details.
+- **Match Schedule**: View upcoming match times and details, and track the progress of live matches.
+- **Profile Management**: Users can manage their profiles, view past tournament participation, and update personal information.
 
 ## Directory Structure
 
