@@ -8,13 +8,16 @@ This is the frontend of the mobile esports tournament app, built using React and
 Clone the repository to your local machine by running:
 ``` git clone https://github.com/kppetrick/mobile-esports-tournament-frontend.git ```
 
+
 ### 2. Navigate to the project directory
 Go into the project folder:
 ``` cd mobile-esports-tournament-frontend ```
 
+
 ### 3. Install dependencies
 Install all the required project dependencies:
 ``` npm install ```
+
 
 ### 4. Tailwind CSS Setup
 Ensure that Tailwind CSS is set up correctly by following the necessary setup steps. If Tailwind is not yet installed or configured, you can follow the installation guide from Tailwind CSS Documentation.
@@ -24,10 +27,12 @@ tailwind.config.js
 postcss.config.js
 These files will allow you to customize the Tailwind setup and use PostCSS for processing styles.
 
+
 ### 5. Start the development server
 Once the dependencies are installed, run the app in development mode:
 ``` npm start ```
 This will open the app in your default browser at http://localhost:3000. Any changes you make to the code will be reflected immediately as the app is running in hot-reload mode.
+
 
 ## Usage
 
@@ -37,6 +42,7 @@ Once the app is running, you can expect the following functionalities:
 - **Team Registration**: Teams can register for tournaments, update their roster, and manage their team details.
 - **Match Schedule**: View upcoming match times and details, and track the progress of live matches.
 - **Profile Management**: Users can manage their profiles, view past tournament participation, and update personal information.
+
 
 ## Directory Structure
 
@@ -56,12 +62,14 @@ Here’s an overview of the project’s structure:
 └── tailwind.config.js      # Tailwind CSS configuration file
 ```
 
+
 ## Key Folders and Files
 
 - `/src/components`: Reusable UI components that make up the building blocks of your pages.
 - `/src/pages`: The actual page components (e.g., Home, Profile, Tournament).
 - `/src/styles`: Custom CSS files or Tailwind configuration to manage styles across the app.
 - `tailwind.config.js`: Tailwind CSS configuration file for customizing the design system.
+
 
 ## Contributing
 
