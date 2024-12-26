@@ -6,6 +6,7 @@ This is the frontend of the mobile esports tournament app, built using React and
 
 ### 1. Clone the repository
 Clone the repository to your local machine by running:
+
 ``` git clone https://github.com/kppetrick/mobile-esports-tournament-frontend.git ```
 
 
