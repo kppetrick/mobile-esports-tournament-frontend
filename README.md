@@ -46,7 +46,8 @@ Tournament Overview: A list of upcoming and ongoing tournaments, with the abilit
 Team Registration: Teams can register for tournaments, update their roster, and manage their team details.
 Match Schedule: View upcoming match times and details, and track the progress of live matches.
 Profile Management: Users can manage their profiles, view past tournament participation, and update personal information.
-Directory Structure
+
+### Directory Structure
 Here’s an overview of the project’s structure:
 
 /mobile-esports-tournament-frontend
@@ -67,7 +68,8 @@ Key Folders and Files
 /src/pages: The actual page components (e.g., Home, Profile, Tournament).
 /src/styles: Custom CSS files or Tailwind configuration to manage styles across the app.
 tailwind.config.js: Tailwind CSS configuration file for customizing the design system.
-Contributing
+
+### Contributing
 We welcome contributions! If you would like to contribute to the development of this project, follow these steps:
 
 Fork the repository to your GitHub account.
